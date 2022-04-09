@@ -3,7 +3,7 @@
 
 ## I'm a 22 years old hobbies, self taught developer!
 - Currently trying to get my health fixed to become a real developer again!
-- 🥅 2022 Goals: Use my current private projects to start at least 2 more companies 
+- 2022 Goals: Use my current private projects to start at least 2 more companies 
 
 ## About my development past
 - I started learning about development 12 years ago.
@@ -17,6 +17,7 @@
 
 
 ### Languages and Tools and learned and use
+- NextJS, Prisma.io
 - Visual Studio Code
 - macOS: with zsh and oh my zsh
 - Docker
@@ -27,7 +28,3 @@
 - MySQL, HTML and CSS
 
 - I started to learn using Version Control Systems from the first day. From a private SVN to Github and GitLab
-
-
-### Connect with me:
-[<img align="left" alt="nklasio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nklasio)
